@@ -1,0 +1,9 @@
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\obj\Debug\Modul5.csprojResolveAssemblyReference.cache
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\obj\Debug\Modul5.MainForm.resources
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\obj\Debug\Modul5.csproj.GenerateResource.Cache
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\bin\Debug\Modul5.exe.config
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\bin\Debug\Modul5.exe
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\bin\Debug\Modul5.pdb
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\bin\Debug\MySql.Data.dll
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\obj\Debug\Modul5.exe
+D:\MATERI KULIAH\S4\PV (Pemrograman Visual)\Praktik Pemrograman Visual\Pertemuan  (6)\Modul5\Modul5\obj\Debug\Modul5.pdb
